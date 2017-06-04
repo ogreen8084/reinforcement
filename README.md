@@ -1,0 +1,1 @@
+This implementation is designed to support a blog post at: http://oggreenml.blogspot.com/2017/06/q-learning-vs-sarsa-by-example-and-code.html. The blog post demonstrates the key difference between the two reinforcement learning algorithms, SARSA and Q-Learning in order to make the subject more accessible to those new to reinforcement learning. 
